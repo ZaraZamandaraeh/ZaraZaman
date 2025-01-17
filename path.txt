@@ -1,0 +1,2 @@
+mkdir /c/Users/zaraz/OneDrive/Skrivebord/project/Ny_mappe
+cd /c/Users/zaraz/OneDrive/Skrivebord/project/Ny_mappe
